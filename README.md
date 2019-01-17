@@ -1,6 +1,6 @@
 # Nomads
 
-![](nomad(0).gif)
+![](nomad.gif)
 
 Nutshell is a new product offering that we have been tasked with building. Our application is tailored to those who posses a nomadic spirit, in other words for people who travel a lot. It's a dashboard for people to use to organize their daily tasks, events, news article, friends, and chat messages.
 
